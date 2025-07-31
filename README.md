@@ -12,7 +12,7 @@ Built using React, Firebase, and Python-based Machine Learning, SmartCart enhanc
 
 📦 Inventory Sync across multiple devices via Firebase Realtime Database
 
-🤖 Personalized Recommendations using ML models trained on user and product data
+🤖 Personalized Recommendations using  user and product data
 
 📊 Admin Dashboard for live analytics and inventory updates
 
@@ -21,7 +21,6 @@ Frontend: React.js (with Create React App)
 
 Backend: Firebase (Authentication + Realtime DB), Python (ML model serving)
 
-ML Models: Collaborative Filtering & KMeans Clustering for recommendations
 
 Others: HTML, CSS, JavaScript, Git
 
