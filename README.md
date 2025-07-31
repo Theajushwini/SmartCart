@@ -1,4 +1,4 @@
-SmartCart
+**SmartCart**
 SmartCart is an AI-powered smart retail assistant developed as part of Sparkathon (July 2025). It streamlines in-store shopping through QR-based login, real-time cart tracking, personalized ML recommendations, and inventory synchronization.
 
 Built using React, Firebase, and Python-based Machine Learning, SmartCart enhances the shopping experience while supporting retailers with live inventory insights and dynamic user behavior analytics.
